@@ -1,4 +1,4 @@
-# Emran Batmanghelich Home Page
+# Emran Batmanghelich
 Hi!  
 Welcome to my personal homepage.  
 
