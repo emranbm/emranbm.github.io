@@ -1,1 +1,14 @@
-theme: jekyll-theme-cayman
+plugins:
+  - jekyll-include-cache
+
+remote_theme: "zivong/jekyll-theme-hamilton@v4.0.0"
+
+title: "My Homepage"
+subscribe: false
+google_analytics: FAKE_STRING
+defaults:
+  -
+    scope:
+          path: ""
+    values:    
+      toc: true
