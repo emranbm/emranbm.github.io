@@ -1,0 +1,13 @@
+---
+---
+
+@font-face {
+  font-family: myFirstFont;
+  src: url(https://virgool.io/fonts/vazir/Vazir-Medium.ttf);
+}
+
+* {
+  font-family: myFirstFont
+}
+
+@import "main";
