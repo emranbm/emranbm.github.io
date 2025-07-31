@@ -1,5 +1,4 @@
 # Emran Batmanghelich
-Hi!  
 Welcome to my personal homepage.  
 
 I'm Emran - a human-being and a software engineer.  
