@@ -1,5 +1,7 @@
 # Emran Batmanghelich CV
-Hi, this is my CV as a Software Engineer.
+Hi, this is my CV as a Software Engineer.  
+I love the whole application development lifecycle (from design, development, and testing, to continuous delivery and monitoring). That's what I call *Software Engineering*, in comparison to just programming.  
+However, I've mainly focused on Backend development skills, alongside DevOps and Quality.
 
 ## Personal Info
 
@@ -61,10 +63,6 @@ Hi, this is my CV as a Software Engineer.
 - Ansible
 - C# .NET
 - Java SE
-
-## Development Interests
-I really love the whole application development lifecycle (from design, development, and test, to continuous delivery and monitoring). Actually, that's what I call *Software Engineering*, in comparison to just programming!  
-However, I've mainly focused on Backend development skills, alongside DevOps and Quality.
 
 ## Soft Skills
 - Self-Study
