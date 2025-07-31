@@ -9,7 +9,8 @@ However, I've mainly focused on Backend development skills, alongside DevOps and
 | :--            | :--   |
 | **First name**       | Emran |
 | **Last name**        | Batmanghelich (pronounced baht-maan-ghe-lich) |
-| **Email**            | emran.bm@gmail.com |
+| **June 2014**        | Graduated from Mofid1 high school. |
+|                      | Diploma G.P.A 18.87 || **Email**            | emran.bm@gmail.com |
 | **Birthday**         | March 3, 1996 (1374/12/13) |
 | **Current Location** | Tehran, Iran |
 | **GitHub**           | [Link](https://github.com/emranbm) |
@@ -26,7 +27,7 @@ However, I've mainly focused on Backend development skills, alongside DevOps and
 | **2014 - 2019**      | Bachelor of Science, Software Engineering, [AmirKabir University of Technology](https://aut.ac.ir/) |
 |                      | - Ranked 1048th in the national university entrance exam for B.Sc. degree |
 |                      | - The only team from the University that participated in the finals of the 7th Java Challenge. (Ranked 18) |
-|                      | - Ranked first team among all 93 entrance students in 14th ACM‐ICPC AmirKabir University. |
+|                      | - Ranked first team among all 93 entrance students in the 14th ACM‐ICPC AmirKabir University. |
 | **2012 - 2013**      | 3rd place in Khwarizmi Javaan national festival.<br/>Field: Computer<br/>Paper: Authentication system based on behavioral patterns |
 
 
@@ -35,10 +36,20 @@ However, I've mainly focused on Backend development skills, alongside DevOps and
 | | |
 | :-- | :-- |
 | **May 2022 - Present**.           | Senior Software Engineer at [Divar](https://divar.ir) |
+|                                   | AI sales assistant team: |
+|                                   | - Technical Lead in the Early Development of the Application: An intelligent assistant designed to help recruiters identify top candidates by conducting standalone interviews, as a chatbot |
+|                                   | Engineering Productivity team: |
+|                                   | - Designed and implemented an A/B testing infrastructure that enabled approximately 100 daily active experiments across teams working on various parts of Divar. |
 | **2020**                          | Tech. lead of Sharif Winter Seminar Series ([WSS](https://wss.ce.sharif.edu/)) year 2020 |
 | **July 2019 - April 2022**        | Software Engineer at [Sahab](https://sahab.ir/) |
+|                                   | With the focus on Engineering Productivity: |
+|                                   | - Contributing to a Quality Maturity Model: An approach that makes quality measurable and accessible for all teams, through a clear, step-by-step progression. |
+|                                   | - Enhancement of the CI\CD workflows; e.g. optimization of piplelines from ~20mins to ~5mins leveraging google's Bazel build system. |
 | **October 2017 – June 2019**      | Software Developer at [SystemGroup Corporation](https://www.systemgroup.net/) |
+|                                   | - Development of a module for budget management for the company's ERP product | 
 | **September 2016 – October 2017** | Software Developer at Sadad Informatics Corporation ([Bale Messenger](https://bale.ai/)) |
+|                                   | - Design and development of a Node.js SDK for Bale Bots. |
+|                                   | - Design and development of a desktop client application (Java) |
 
 ## Hard Skills in a Nutshell
 
