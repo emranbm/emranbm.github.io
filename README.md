@@ -21,17 +21,13 @@ However, I've mainly focused on Backend development skills, alongside DevOps and
 |                |       |
 | :--            | :--   |
 | **2019 - 2022**      | Master of Science, Computer Engineering (Network), [Sharif University of Technology](https://www.sharif.edu/)(Iran's first-ranked university in fundamental sciences and engineering) |
-| **July 2019**        | Ranked 10th in the national university entrance exam for M.Sc. degree in Information Technology (IT) |
-|                      | Ranked 37th in the national university entrance exam for M.Sc. degree in Software Engineering |
+|                      | - Ranked 10th in the national university entrance exam for M.Sc. degree in Information Technology (IT) |
+|                      | - Ranked 37th in the national university entrance exam for M.Sc. degree in Software Engineering |
 | **2014 - 2019**      | Bachelor of Science, Software Engineering, [AmirKabir University of Technology](https://aut.ac.ir/) |
-| **2016 - 2017**      | Teaching Assistant in *Advanced Programming* and *Fundamental Programming*, at AmirKabir University of technology. |
-| **February 2015**    | The only team from AmirKabir University that participated in the finals of the 7th Java Challenge. (Ranked 18) |
-| **Late 2014**        | Participated in 16th ACM‐ICPC in Sharif University of technology. |
-| **November 2014**    | Ranked first team among all 93 entrance students in 14th ACM‐ICPC AmirKabir University. |
-| **August 2014**      | Ranked 1048th in the national university entrance exam for B.Sc. degree |
-| **June 2014**        | Graduated from Mofid1 high school. |
-|                      | Diploma G.P.A 18.87 |
-| **2012 - 2013**      | 3rd place in Khwarizmi Javaan festival.<br/>Field: Computer<br/>Paper: Authentication system based on behavioral patterns |
+|                      | - Ranked 1048th in the national university entrance exam for B.Sc. degree |
+|                      | - The only team from the University that participated in the finals of the 7th Java Challenge. (Ranked 18) |
+|                      | - Ranked first team among all 93 entrance students in 14th ACM‐ICPC AmirKabir University. |
+| **2012 - 2013**      | 3rd place in Khwarizmi Javaan national festival.<br/>Field: Computer<br/>Paper: Authentication system based on behavioral patterns |
 
 
 ## Work Experience
