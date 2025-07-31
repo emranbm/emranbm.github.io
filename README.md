@@ -15,7 +15,6 @@ However, I've mainly focused on Backend development skills, alongside DevOps and
 | **GitHub**           | [Link](https://github.com/emranbm) |
 | **LinkedIn**         | [Link](https://linkedin.com/in/emranbm) |
 | **Marriage**         | Single |
-| **Military Service** | Finished (Alternative project, under the supervision of the National Elites Foundation.) |
 
 ## Education
 
