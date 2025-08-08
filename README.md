@@ -10,7 +10,7 @@ However, I've mainly focused on Backend development skills, alongside DevOps and
 | **First name**       | Emran |
 | **Last name**        | Batmanghelich (pronounced baht-maan-ghe-lich) |
 | **Email**            | emran.bm@gmail.com |
-| **Birthday**         | March 3, 1996 (1374/12/13) |
+| **Birthday**         | March 3, 1996 |
 | **Current Location** | Tehran, Iran |
 | **GitHub**           | [Link](https://github.com/emranbm) |
 | **LinkedIn**         | [Link](https://linkedin.com/in/emranbm) |
