@@ -1,5 +1,5 @@
 # Emran Batmanghelich CV
-Hi, this is my CV as a Software Engineer.  
+This is my CV as a Software Engineer.  
 I love the whole application development lifecycle (from design, development, and testing, to continuous delivery and monitoring). That's what I call *Software Engineering*, in comparison to just programming.  
 However, I've mainly focused on Backend development skills, alongside DevOps and Quality.
 
