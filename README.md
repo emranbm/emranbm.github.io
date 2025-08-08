@@ -9,8 +9,7 @@ However, I've mainly focused on Backend development skills, alongside DevOps and
 | :--            | :--   |
 | **First name**       | Emran |
 | **Last name**        | Batmanghelich (pronounced baht-maan-ghe-lich) |
-| **June 2014**        | Graduated from Mofid1 high school. |
-|                      | Diploma G.P.A 18.87 || **Email**            | emran.bm@gmail.com |
+| **Email**            | emran.bm@gmail.com |
 | **Birthday**         | March 3, 1996 (1374/12/13) |
 | **Current Location** | Tehran, Iran |
 | **GitHub**           | [Link](https://github.com/emranbm) |
@@ -37,7 +36,7 @@ However, I've mainly focused on Backend development skills, alongside DevOps and
 | :-- | :-- |
 | **May 2022 - Present**.           | Senior Software Engineer at [Divar](https://divar.ir) |
 |                                   | AI sales assistant team: |
-|                                   | - Technical Lead in the Early Development of the Application: An intelligent assistant designed to help recruiters identify top candidates by conducting standalone interviews, as a chatbot |
+|                                   | - Technical Lead in the Early Development of the Application: An **LLM agent** designed to help recruiters identify top candidates by conducting standalone interviews, as a chatbot |
 |                                   | Engineering Productivity team: |
 |                                   | - Designed and implemented an A/B testing infrastructure that enabled approximately 100 daily active experiments across teams working on various parts of Divar. |
 | **2020**                          | Tech. lead of Sharif Winter Seminar Series ([WSS](https://wss.ce.sharif.edu/)) year 2020 |
@@ -53,22 +52,21 @@ However, I've mainly focused on Backend development skills, alongside DevOps and
 
 ## Hard Skills in a Nutshell
 
-### Rank1: Proficient in:
-- Git
-- CI/CD (Gitlab CI, GitHub Actions)
+### Programming Languages
 - Golang
-- Docker / Kubernetes
-- Relational Databases (like Postgresql)
-- Automated tests
-- LLM agents development
-
-### Rank2: Almost fluent in:
+- Python
 - Node.js
-- Python / Django
-- React.js
+
+### DevOps / Engineering Productivity
+- Git / CI/CD (Gitlab CI, GitHub Actions)
+- Docker
+- Kubernetes
 - Ansible
-- C# .NET
-- Java SE
+- Automated unit tests
+  - Testify (Golang)
+  - NoseTest (Python)
+- End-to-End tests
+- A/B testing infrastructure
 
 ## Soft Skills
 - Self-Study
