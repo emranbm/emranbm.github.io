@@ -20,6 +20,7 @@ However, I've mainly focused on Backend development skills, alongside DevOps and
 | | |
 | :-- | :-- |
 | **May 2022 - Present**.           | Senior Software Engineer at [Divar](https://divar.ir) |
+| | - Designed and implemented an experimentation infrastructure that enabled developers and product managers to run approximately 90 A/B tests per month. <br/>- Developed an AI-powered agent to communicate with Divar users, streamlining negotiations and facilitating faster deal closures. <br/>- Designed and implemented an end-to-end testing infrastructure that ensures microservices operate correctly and prevents regressions after updates. |
 | **2020**                          | Tech. lead of Sharif Winter Seminar Series ([WSS](https://wss.ce.sharif.edu/)) year 2020 |
 | **July 2019 - April 2022**        | Software Engineer at [Sahab](https://sahab.ir/) |
 | **October 2017 – June 2019**      | Software Developer at [SystemGroup Corporation](https://www.systemgroup.net/) |
@@ -28,21 +29,21 @@ However, I've mainly focused on Backend development skills, alongside DevOps and
 ## Hard Skills in a nutshell
 
 ### Rank1: Proficient in:
-- Git
-- CI/CD (Gitlab CI, GitHub Actions)
 - Golang
 - Docker / Kubernetes
-- Relational Databases (like Postgresql)
 - Automated tests
 - LLM agents development
+- Python / Django
+- Git
+- CI/CD (Gitlab CI, GitHub Actions)
+- Relational Databases (like Postgresql)
 
 ### Rank2: Almost fluent in:
 - Node.js
-- Python / Django
 - React.js
 - Ansible
 - C# .NET
-- Java SE
+- Java
 
 
 ## Soft Skills
