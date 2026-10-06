@@ -23,6 +23,7 @@ However, I've mainly focused on Backend development skills, alongside DevOps and
 | **May 2022 - March 2026**.           | Senior Software Engineer at [Divar](https://divar.ir) |
 | | - Designed and implemented an experimentation infrastructure that enabled developers and product managers to run approximately 90 A/B tests per month. <br/>- Developed an AI-powered agent to communicate with Divar users, streamlining negotiations and facilitating faster deal closures. <br/>- Designed and implemented an end-to-end testing infrastructure that ensures microservices operate correctly and prevents regressions after updates. |
 | **2020**                          | Tech. lead of Sharif Winter Seminar Series ([WSS](https://wss.ce.sharif.edu/)) year 2020 |
+| | Led a cross-functional team of 5 engineers in the full-lifecycle development and deployment of the ‘Winter Seminar Series’ web platform for Sharif University of Technology, successfully managing project timelines and technical architecture. |
 | **July 2019 - April 2022**        | Software Engineer at [Sahab](https://sahab.ir/) |
 | | - Optimized the build system using Google’s Bazel, reducing build time from approximately 15 minutes to 2 minutes. <br/> - Developed a system to evaluate projects against an agreed-upon software quality manifest built on DORA metrics, enabling data-driven assessment of engineering performance and delivery effectiveness.
 | **October 2017 – June 2019**      | Software Developer at [SystemGroup Corporation](https://www.systemgroup.net/) |
