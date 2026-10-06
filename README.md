@@ -35,7 +35,7 @@ However, I've mainly focused on Backend development skills, alongside DevOps and
 - Golang
 - Docker / Kubernetes
 - Automated tests
-- LLM agents development (RAG, Human-in-the-loop, context management, end-to-end agentic development lifecycle)
+- LLM agents development (RAG, Human-in-the-loop, context management, End-to-end agentic development lifecycle, Multi-agent architecture, Optimization)
 - Python / Django
 - Git
 - CI/CD (Gitlab CI, GitHub Actions)
