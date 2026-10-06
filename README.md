@@ -32,31 +32,25 @@ However, I've mainly focused on Backend development skills, alongside DevOps and
 
 ## Hard Skills in a nutshell
 
-### Rank1: Proficient in:
 - Golang
 - Docker / Kubernetes
 - Automated tests
-- LLM agents development
+- LLM agents development (RAG, Human-in-the-loop, context management, end-to-end agentic development lifecycle)
 - Python / Django
 - Git
 - CI/CD (Gitlab CI, GitHub Actions)
-- Relational Databases (like Postgresql)
-
-### Rank2: Almost fluent in:
-- Node.js
-- React.js
+- Relational Databases (mostly Postgresql)
 - Ansible
-- C# .NET
-- Java
+- Minimal working knowledge of React.js
 
 
 ## Soft Skills
 - Self-Study
-  - Open to new technologies (Just give me a week or two!)
+  - Open to new technologies (Just give me a day or two!)
 - Communication skills
   - Trying to be an active listener!
   - Learned a lot about giving and receiving feedback / feed-forwards.
-  - Almost fluent in English (but, TBH, my reading/writing seems better in comparison to talking)
+  - Almost fluent in English (TBH, my reading/writing seems better in comparison to talking)
 - Knowledge Sharing
   - Have a knak for explaining things clearly and presenting information effectively.
   - Good at documenting
