@@ -19,7 +19,7 @@ However, I've mainly focused on Backend development skills, alongside DevOps and
 
 | | |
 | :-- | :-- |
-| **June 2026 - Present** | Senior Software Engineer at [Milli](https://milli.gold) |
+| **August 2026 - Present** | Senior Software Engineer at [Hamravesh](https://hamravesh.com) |
 | **May 2022 - March 2026**.           | Senior Software Engineer at [Divar](https://divar.ir) |
 | | - Designed and implemented an experimentation infrastructure that enabled developers and product managers to run approximately 90 A/B tests per month. <br/>- Developed an AI-powered agent to communicate with Divar users, streamlining negotiations and facilitating faster deal closures. <br/>- Designed and implemented an end-to-end testing infrastructure that ensures microservices operate correctly and prevents regressions after updates. |
 | **2020**                          | Tech. lead of Sharif Winter Seminar Series ([WSS](https://wss.ce.sharif.edu/)) year 2020 |
